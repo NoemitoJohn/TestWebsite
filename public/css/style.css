@@ -1,0 +1,23 @@
+
+
+.parent{
+    display: flex;
+    height: 100vh;
+}
+
+.left{
+    width: 20%;
+    height: 100%;
+    
+}
+
+.mid{
+
+    width: 60%;
+    
+}
+
+.right{
+    width: 20%;
+    
+}
